@@ -1,4 +1,4 @@
-{"clientes": [
+{ "clientes": [
       { "id": "C0001", "nome": "sapateiro 1", "licenca_valida": true },
       { "id": "C0002", "nome": "empresa 1", "licenca_valida": false },
       { "id": "C0003", "nome": "sapateiro 2", "licenca_valida": false },
@@ -10,4 +10,5 @@
       { "id": "C0009", "nome": "sapateiro 5", "licenca_valida": false },
       { "id": "C0010", "nome": "sapateiro 6", "licenca_valida": true },
       { "id": "C0011", "nome": "sapateiro 7", "licenca_valida": true }
-    ]}
+    ]
+}
