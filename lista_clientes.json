@@ -1,13 +1,13 @@
 {"clientes": [
-      { "nome": "sapateiro 1", "licenca_valida": true },
-      { "nome": "empresa 1", "licenca_valida": false },
-      { "nome": "sapateiro 2", "licenca_valida": false },
-      { "nome": "fabrica 1", "licenca_valida": true },
-      { "nome": "sapateiro 4", "licenca_valida": true },
-      { "nome": "sapateiro 3", "licenca_valida": true },
-      { "nome": "fabrica 2", "licenca_valida": false },
-      { "nome": "empresa 3", "licenca_valida": true },
-      { "nome": "sapateiro 5", "licenca_valida": false },
-      { "nome": "sapateiro 6", "licenca_valida": true },
-      { "nome": "sapateiro 7", "licenca_valida": true }
+      { "id": "C0001", "nome": "sapateiro 1", "licenca_valida": true },
+      { "id": "C0002", "nome": "empresa 1", "licenca_valida": false },
+      { "id": "C0003", "nome": "sapateiro 2", "licenca_valida": false },
+      { "id": "C0004", "nome": "fabrica 1", "licenca_valida": true },
+      { "id": "C0005", "nome": "sapateiro 4", "licenca_valida": true },
+      { "id": "C0006", "nome": "sapateiro 3", "licenca_valida": true },
+      { "id": "C0007", "nome": "fabrica 2", "licenca_valida": false },
+      { "id": "C0008", "nome": "empresa 3", "licenca_valida": true },
+      { "id": "C0009", "nome": "sapateiro 5", "licenca_valida": false },
+      { "id": "C0010", "nome": "sapateiro 6", "licenca_valida": true },
+      { "id": "C0011", "nome": "sapateiro 7", "licenca_valida": true }
     ]}
