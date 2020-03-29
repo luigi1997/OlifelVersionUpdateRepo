@@ -31,6 +31,15 @@
             "id": "V20200304",
             "nome": "V2020.03.04",
             "descricao": "sim",
+            "data_lancamento": "2020-03-02",
+            "dataHora_lancamento": "2020-03-02T19:22:22Z",
+            "disponivel": true,
+            "xis": "ya"
+        },
+        {
+            "id": "V20200303",
+            "nome": "V2020.03.03",
+            "descricao": "Primeira versao de março 2020.\nErro na fatura de cliente com numeros negativos - corrigida.\nEfeito estrela adicionado ao fechar o programa.\nCorreção de bug.\nAdicição de novas *features*",
             "data_lancamento": "2020-03-01",
             "dataHora_lancamento": "2020-03-01T9:22:22Z",
             "disponivel": true,
