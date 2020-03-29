@@ -1,34 +1,35 @@
-{ "versoes":   [{
-            "id": "V20200307",
-            "nome": "V2020.03.07",
-            "descricao": "Gosto de arroz batatas e salpicão com açúcar.",
-            "data_lancamento": "2020-03-14",
-            "dataHora_lancamento": "2020-03-14T18:22:22Z",
-            "xis": "ya"
+{"versoes": [
+      {
+         "id":"V20200307",
+         "nome":"V2020.03.07",
+         "descricao":"Gosto de arroz batatas e salpicão com açúcar.",
+         "data_lancamento":"2020-03-14",
+         "dataHora_lancamento":"2020-03-14T18:22:22Z",
+         "xis":"ya"
       },
       {
-            "id": "V20200306",
-            "nome": "V2020.03.06",
-            "descricao": "versao fixe, feita com carinho e amor.",
-            "data_lancamento": "2020-03-10",
-            "dataHora_lancamento": "2020-03-10T11:22:72Z",
-            "xis": "ya"
+         "id":"V20200306",
+         "nome":"V2020.03.06",
+         "descricao":"versao fixe, feita com carinho e amor.",
+         "data_lancamento":"2020-03-10",
+         "dataHora_lancamento":"2020-03-10T11:22:72Z",
+         "xis":"ya"
       },
       {
-            "id": "V20200305",
-            "nome": "V2020.03.05",
-            "descricao": "A acção de Os Maias passa-se em Lisboa, na segunda metade dos séc. XIX.\nConta-nos a história de três gerações da família Maia. A acção inicia-se no Outono de 1875, altura em que Afonso da Maia, nobre e rico proprietário, se instala no Ramalhete. O seu único filho – Pedro da Maia – de carácter fraco, resultante de um educação extremamente religiosa e proteccionista, casa-se, contra a vontade do pai, com a negreira Maria Monforte, de quem tem dois filhos – um menino e uma menina. Mas a esposa acabaria por o abandonar para fugir com um Napolitano, levando consigo a filha, de quem nunca mais se soube o paradeiro. O filho – Carlos da Maia – viria a ser entregue aos cuidados do avô, após o suicídio de Pedro da Maia. Carlos passa a infância com o avô, formando-se depois, em Medicina em Coimbra. Carlos regressa a Lisboa, ao Ramalhete, após a formatura, onde se vai rodear de alguns amigos, como o João da Ega, Alencar, Damaso Salcede, Palma de Cavalão, Euzébiozinho, o maestro Cruges, entre outros. Seguindo os hábitos dos que o rodeavam, Carlos envolve-se com a Condessa de Gouvarinho, que depois irá abandonar. Um dia fica deslumbrado ao conhecer Maria Eduarda, que julgava ser mulher do brasileiro Castro Gomes. Carlos seguiu-a algum tempos sem êxito, mas acaba por conseguir uma aproximação quando é chamado Maria Eduarda para visitar, como médico a governanta. Começam então os seus encontros com Maria Eduarda, visto que Castro Gomes estava ausente. Carlos chega mesmo a comprar uma casa onde instala a amante. Castro Gomes descobre o sucedido e procura Carlos, dizendo que Maria Eduarda não era sua mulher, mas sim sua amante e que, portanto, podia ficar com ela. Entretanto, chega de Paris um emigrante, que diz ter conhecido a mãe de Maria Eduarda e que a procura para lhe entregar um cofre desta que, segundo ela lhe disse, continha documentos que identificariam e garantiriam para a filha uma boa herança. Essa mulher era Maria Mão Forte – a mãe de Maria Eduarda era, portanto, também a mães de Carlos. Os amantes eram irmãos... Contudo, Carlos não aceita este facto e mantém abertamente, a relação – incestuosa – com a irmã. Afonso da Maia, o velho avô, ao receber a notícia morre desgosto. Ao tomar conhecimento, Maria Eduarda, agora rica, parte para o estrangeiro; e Carlos, para se distrair, vai correr o mundo. O romance termina com o regresso de Carlos a Lisboa, passados 10 anos, e o seu reencontro com Portugal e com Ega, que lhe diz: - falhamos a vida, menino!.",
-            "data_lancamento": "2020-03-03",
-            "dataHora_lancamento": "2020-03-03T15:52:22Z",
-            "xis": "ya"
+         "id":"V20200305",
+         "nome":"V2020.03.05",
+         "descricao":"A acção de Os Maias passa-se em Lisboa, na segunda metade dos séc. XIX.\nConta-nos a história de três gerações da família Maia. A acção inicia-se no Outono de 1875, altura em que Afonso da Maia, nobre e rico proprietário, se instala no Ramalhete. O seu único filho – Pedro da Maia – de carácter fraco, resultante de um educação extremamente religiosa e proteccionista, casa-se, contra a vontade do pai, com a negreira Maria Monforte, de quem tem dois filhos – um menino e uma menina. Mas a esposa acabaria por o abandonar para fugir com um Napolitano, levando consigo a filha, de quem nunca mais se soube o paradeiro. O filho – Carlos da Maia – viria a ser entregue aos cuidados do avô, após o suicídio de Pedro da Maia. Carlos passa a infância com o avô, formando-se depois, em Medicina em Coimbra. Carlos regressa a Lisboa, ao Ramalhete, após a formatura, onde se vai rodear de alguns amigos, como o João da Ega, Alencar, Damaso Salcede, Palma de Cavalão, Euzébiozinho, o maestro Cruges, entre outros. Seguindo os hábitos dos que o rodeavam, Carlos envolve-se com a Condessa de Gouvarinho, que depois irá abandonar. Um dia fica deslumbrado ao conhecer Maria Eduarda, que julgava ser mulher do brasileiro Castro Gomes. Carlos seguiu-a algum tempos sem êxito, mas acaba por conseguir uma aproximação quando é chamado Maria Eduarda para visitar, como médico a governanta. Começam então os seus encontros com Maria Eduarda, visto que Castro Gomes estava ausente. Carlos chega mesmo a comprar uma casa onde instala a amante. Castro Gomes descobre o sucedido e procura Carlos, dizendo que Maria Eduarda não era sua mulher, mas sim sua amante e que, portanto, podia ficar com ela. Entretanto, chega de Paris um emigrante, que diz ter conhecido a mãe de Maria Eduarda e que a procura para lhe entregar um cofre desta que, segundo ela lhe disse, continha documentos que identificariam e garantiriam para a filha uma boa herança. Essa mulher era Maria Mão Forte – a mãe de Maria Eduarda era, portanto, também a mães de Carlos. Os amantes eram irmãos... Contudo, Carlos não aceita este facto e mantém abertamente, a relação – incestuosa – com a irmã. Afonso da Maia, o velho avô, ao receber a notícia morre desgosto. Ao tomar conhecimento, Maria Eduarda, agora rica, parte para o estrangeiro; e Carlos, para se distrair, vai correr o mundo. O romance termina com o regresso de Carlos a Lisboa, passados 10 anos, e o seu reencontro com Portugal e com Ega, que lhe diz: - falhamos a vida, menino!.",
+         "data_lancamento":"2020-03-03",
+         "dataHora_lancamento":"2020-03-03T15:52:22Z",
+         "xis":"ya"
       },
       {
-            "id": "V20200304",
-            "nome": "V2020.03.04",
-            "descricao": "sim",
-            "data_lancamento": "2020-03-01",
-            "dataHora_lancamento": "2020-03-01T9:22:22Z",
-            "xis": "ya"
+         "id":"V20200304",
+         "nome":"V2020.03.04",
+         "descricao":"sim",
+         "data_lancamento":"2020-03-01",
+         "dataHora_lancamento":"2020-03-01T9:22:22Z",
+         "xis":"ya"
       }
-]
+   ]
 }
