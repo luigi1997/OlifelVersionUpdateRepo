@@ -2,6 +2,50 @@
     "clientes": [
         {
             "id": "C0001",
+<<<<<<< HEAD
+            "nome": "Sapateiro 1",
+            "grupo": "sapataria",
+            "versao_atual": "V2020.03.04",
+            "data_limite_atualizacoes": "2021-05-02",
+            "data_limite_funcionamento": "2022-06-02",
+            "contrato_assistencia": false
+        },
+        {
+            "id": "C0002",
+            "nome": "Sapateiro 2",
+            "grupo": "sapataria",
+            "versao_atual": "V2020.03.03",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2022-06-02",
+            "contrato_assistencia": true
+        },
+        {
+            "id": "C0003",
+            "nome": "Sapateiro 3",
+            "grupo": "sapataria",
+            "versao_atual": "V2020.03.02",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2020-03-03",
+            "contrato_assistencia": false
+        },
+        {
+            "id": "C0004",
+            "nome": "Calçado 1",
+            "grupo": "Calçado",
+            "versao_atual": "V2020.03.02",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2020-03-03",
+            "contrato_assistencia": true
+        },
+        {
+            "id": "C0005",
+            "nome": "Calçado 2",
+            "grupo": "Calçado",
+            "versao_atual": "V2020.03.01",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2022-03-03",
+            "contrato_assistencia": false
+=======
             "nome": "sapateiro 1",
             "licenca_valida": true,
             "versao_instalada": "V2020.03.04"
@@ -65,6 +109,7 @@
             "nome": "sapateiro 7",
             "licenca_valida": true,
             "versao_instalada": "V2020.03.02"
+>>>>>>> 416685e434eaf3e29c910d6c32e0e7112ce1b80c
         }
     ]
 }
