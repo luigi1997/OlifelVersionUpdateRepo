@@ -44,6 +44,51 @@
             "data_limite_atualizacoes": "2020-03-02",
             "data_limite_funcionamento": "2022-03-03",
             "contrato_assistencia": false
+        },
+        {
+            "id": "C0006",
+            "nome": "Calçado 2",
+            "grupo": "Calçado",
+            "versao_atual": "V2020.03.01",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2022-03-03",
+            "contrato_assistencia": false
+        },
+        {
+            "id": "C0007",
+            "nome": "Calçado 2",
+            "grupo": "Calçado",
+            "versao_atual": "V2020.03.01",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2022-03-03",
+            "contrato_assistencia": false
+        },
+        {
+            "id": "C0008",
+            "nome": "Calçado 2",
+            "grupo": "Calçado",
+            "versao_atual": "V2020.03.01",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2022-03-03",
+            "contrato_assistencia": false
+        },
+        {
+            "id": "C0009",
+            "nome": "Calçado 2",
+            "grupo": "Calçado",
+            "versao_atual": "V2020.03.01",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2022-03-03",
+            "contrato_assistencia": false
+        },
+        {
+            "id": "C0010",
+            "nome": "Calçado 2",
+            "grupo": "Calçado",
+            "versao_atual": "V2020.03.01",
+            "data_limite_atualizacoes": "2020-03-02",
+            "data_limite_funcionamento": "2022-03-03",
+            "contrato_assistencia": false
         }
     ]
 }
